@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Call me Shaz! Full time student studying at Unitar International University.
 
-Currently learning how to use Github for fun so nothing to see here :O
+
